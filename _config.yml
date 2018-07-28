@@ -21,9 +21,10 @@ description:
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 repository: "snowdj/jekyll-theme-basically-basic"
-baseurl:   # the optional subpath of your site, e.g. "/blog"
-url: "https://snowdj.github.io/jekyll-theme-basically-basic" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-
+baseurl: "/jekyll-theme-basically-basic"  # the optional subpath of your site, e.g. "/blog"
+url: "https://snowdj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url: "https://snowdj.github.io/jekyll-theme-basically-basic" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#works for image in blog
 author:
   name: snowdj
   twitter: snowdj
