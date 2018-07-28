@@ -18,6 +18,7 @@ title: My Awesome Site
 email:
 description:
 
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
 
 repository: "snowdj/jekyll-theme-basically-basic"
 baseurl:  "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
