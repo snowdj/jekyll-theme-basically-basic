@@ -18,6 +18,8 @@ title: My Awesome Site
 email:
 description:
 
+
+repository: "snowdj/jekyll-theme-basically-basic"
 baseurl:  "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
 url: "https://snowdj.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
